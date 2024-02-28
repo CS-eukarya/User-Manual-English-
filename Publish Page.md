@@ -4,18 +4,18 @@
 
 1. Click the publish menu on the top right of the project edit screen.
 
-![6 85 (1).png](Publish%20Page%206dfb01ed7e22445a908620899235d569/6_85_(1).png)
+![6_85_(1)](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/8c17ad61-6915-4088-9494-8f1e8ea75c11)
 
-1. Select Publish.
+2. Select Publish.
     
-    ![fghj 3.png](Publish%20Page%206dfb01ed7e22445a908620899235d569/fghj_3.png)
+    ![fghj_3](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/6dd15911-5a40-4d8e-87dc-9eda4254c835)
     
 
-1. A confirmation screen will appear in the center of the screen. Click Publish.
+3. A confirmation screen will appear in the center of the screen. Click Publish.
     
-    ![gfh 1 (1).png](Publish%20Page%206dfb01ed7e22445a908620899235d569/gfh_1_(1).png)
+   ![gfh_1_(1)](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/f760ee60-85ad-43ea-99c6-20cc37b6ee4d)
     
-    ![URL  1.png](Publish%20Page%206dfb01ed7e22445a908620899235d569/URL__1.png)
+   ![URL__1](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/43ae22a9-cbff-4b5f-b39e-1f7829735f7c)
     
 
 A. `Public URL`: Anyone on the internet with the link can view it.
@@ -26,4 +26,4 @@ B. `Embed Code`: Use the embed code to embed your project on other websites.
 
 On the confirmation screen at the time of publication, by turning on the toggle button of Searchable from other settings, it will be possible to display it in Google search results.
 
-![sdfg 1.png](Publish%20Page%206dfb01ed7e22445a908620899235d569/sdfg_1.png)
+![sdfg_1](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/b02b4b9a-082d-4918-a648-f4cf7de20da3)
