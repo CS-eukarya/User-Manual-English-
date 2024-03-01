@@ -1,7 +1,7 @@
 # User-Manual-English-
-- Understanding-Re:Earth-UI
+- Understanding-Re-Earth-UI
 
-   Overview
+   Overview for Understanding Re-Earth UI
 
    Dashboard
 
