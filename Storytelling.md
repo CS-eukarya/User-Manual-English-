@@ -9,7 +9,7 @@ The storytelling feature allows you to set the display order of layers on the di
 <br>
 <br>
 
-## How to enable Storytelling
+## How to Enable Storytelling
 
 Click on the Plus sign (**+**) in the left corner of the Re-Earth project Workspace, then select **Storytelling** to Enable it.
 
