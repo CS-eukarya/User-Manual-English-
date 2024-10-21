@@ -98,7 +98,7 @@ Please select the item you have added to the stories list to set up the Camera v
 
 When setting properties for storytelling, you can only choose one setting between "Camera Angle" and "Camera". For "Camera Angle", the angle of view is automatically set when you specify the camera's altitude (display range). For "Camera", you can manually and freely set the camera's position, such as height and angle. Note that if you set "Camera", the "Camera Angle" setting will be disabled, and the "Camera" setting will take priority, so please choose one or the other.
 
--** As a side note, if you want to remove the "Camera" setting, you can click on the text "Camera" and select "Reset Settings" to remove it. You can easily see the visual difference by comparing the case where the "Camera Angle" is set to "1000" and the case where it is set to "10000".
+- As a side note, if you want to remove the "Camera" setting, you can click on the text "Camera" and select "Reset Settings" to remove it. You can easily see the visual difference by comparing the case where the "Camera Angle" is set to "1000" and the case where it is set to "10000".
 <br>
 <br>
 
